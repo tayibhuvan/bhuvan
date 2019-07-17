@@ -1,2 +1,2 @@
-i,j,k=map(int,input().split())
-  print(max(i,k,j))
+l,m,n=map(int,input().split())
+  print(max(l,n,m))
