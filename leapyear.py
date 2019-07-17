@@ -5,7 +5,7 @@ a = input()
        print ("no")
      else:
        print("yes")
-     else:
-       print('yes")
-     else:
-       print("no")
+   else:
+     print('yes")
+ else:
+   print("no")
